@@ -1,0 +1,6 @@
+bin/
+.dub/
+*.sln
+*.suo
+*.visualdproj
+dlang-env.bat

@@ -1,0 +1,11 @@
+{
+    "name": "spf",
+    "description": "Spline Photo Filter",
+    "copyright": "Copyright © 2014 alexeibs",
+    "authors": ["alexeibs"],
+    "targetPath": "bin",
+    "workingDirectory": "bin",
+    "dependencies": {
+        "derelict-fi": ">=1.0.0"
+    }
+}
